@@ -1,0 +1,706 @@
+
+<!DOCTYPE html>
+
+<!--[if IE 7 ]><html class="ie ie7" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/"><![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/"><![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:schema="http://schema.org/"><!--<![endif]-->
+
+  <head profile="http://www.w3.org/1999/xhtml/vocab">
+    <!--[if IE]><![endif]-->
+<link rel="dns-prefetch" href="//fonts.gstatic.com" />
+<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="dns-prefetch" href="//ws.sharethis.com" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://www.freeportvet.com/sites/default/files/favicon-16x16.png" type="image/png" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="For many cats, the outside world looks like a pretty amazing place to be. With birds, chipmunks, fresh air, and so much more just beyond the window, it should come as no surprise that many indoor cats want to be outdoor cats. However, if your cat keeps trying to sneak out and seems happier when they do manage to bolt out the door, forcing them to stay inside might seem cruel." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="image_src" href="https://www.freeportvet.com/sites/default/files/outdoor-cats-versus-indoor-cats.jpg" />
+<meta name="rights" content="Copyright Freeport Veterinary Hospital 2018" />
+<link rel="canonical" href="https://www.freeportvet.com/services/cats/blog/my-kitty-wants-be-outdoor-cat-what-do-i-do" />
+<link rel="shortlink" href="https://www.freeportvet.com/node/1103" />
+<meta name="geo.position" content="43.8670297;-70.1107623" />
+<meta property="fb:admins" content="178471595507008" />
+<meta name="geo.placename" content="Freeport Veterinary Hospital" />
+<meta name="geo.region" content="US-ME" />
+<meta property="fb:pages" content="https://www.facebook.com/Freeportvet/?ref=bookmarks" />
+<meta property="og:site_name" content="Freeport Veterinary Hospital" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="My Kitty Wants to Be an Outdoor Cat: What Do I Do?!" />
+<meta property="og:url" content="https://www.freeportvet.com/services/cats/blog/my-kitty-wants-be-outdoor-cat-what-do-i-do" />
+<meta property="og:description" content="For many cats, the outside world looks like a pretty amazing place to be. With birds, chipmunks, fresh air, and so much more just beyond the window, it should come as no surprise that many indoor cats want to be outdoor cats. However, if your cat keeps trying to sneak out and seems happier when they do manage to bolt out the door, forcing them to stay inside might seem cruel. As veterinarians, we cannot decide whether or not to let your cat outside for you. We can, however, provide you with the information you need to make an informed decision." />
+<meta property="og:updated_time" content="2021-07-06T05:21:15-07:00" />
+<meta property="og:image" content="https://www.freeportvet.com/sites/default/files/outdoor-cats-versus-indoor-cats.jpg" />
+<meta property="og:latitude" content="43.8670297" />
+<meta name="twitter:card" content="summary" />
+<meta property="og:longitude" content="-70.1107623" />
+<meta name="twitter:site" content="@FreeportVH" />
+<meta property="og:street_address" content="4 Post Road" />
+<meta name="twitter:site:id" content="1202904908" />
+<meta property="og:locality" content="Freeport" />
+<meta property="og:region" content="Maine" />
+<meta name="twitter:title" content="My Kitty Wants to Be an Outdoor Cat: What Do I Do?!" />
+<meta property="og:postal_code" content="04032" />
+<meta name="twitter:description" content="For many cats, the outside world looks like a pretty amazing place to be. With birds, chipmunks, fresh air, and so much more just beyond the window, it should come as no surprise that many indoor" />
+<meta name="twitter:url" content="https://www.freeportvet.com/services/cats/blog/my-kitty-wants-be-outdoor-cat-what-do-i-do" />
+<meta property="og:country_name" content="United States of America" />
+<meta property="og:email" content="info@freeportvet.com" />
+<meta name="twitter:image" content="https://www.freeportvet.com/sites/default/files/outdoor-cats-versus-indoor-cats.jpg" />
+<meta property="og:phone_number" content="(207) 865-3673" />
+<meta property="article:published_time" content="2021-06-08T08:12:02-07:00" />
+<meta property="article:modified_time" content="2021-07-06T05:21:15-07:00" />
+    <title>My Kitty Wants to Be an Outdoor Cat: What Do I Do?!</title>
+    <link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__FdhDFPCMJUIc13Jf_Z9Jm3C-3pXxEZb3NfvVIWrTHOg__mRf_oLcxqELuVM3mts20e7SOiNKMAkqovzCvQboreWs__4x7GfMyP7T4fnRCre75NfAouOAFY1GwrNOXPvV92140.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/all/themes/vetsites/css/fa.css?s8lw62" media="all" />
+<link type="text/css" rel="stylesheet" href="/sites/default/files/advagg_css/css__cPS7_0E5ftvxdINR2274OrEmmKZ16bABvWYRqztis4E__Qdqzts8nannESQzlfE4F_o4CirF_JkshWerJqi9vYbU__4x7GfMyP7T4fnRCre75NfAouOAFY1GwrNOXPvV92140.css" media="all" />
+              <style type="text/css">
+        body{background: url('/sites/all/themes/astrum/images/bg/noise.png') scroll 0 0 repeat;}
+      </style>
+        <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+    <script type="text/javascript" src="/sites/default/files/advagg_js/js__SlxZR0T0y0knhPGspoKKlEQqbk_RdNNsHwLrlCQRTSo__OEn6bELF-RcfSdHydtF_nb4w1ZIqNns1rZCgvWNVEjM__4x7GfMyP7T4fnRCre75NfAouOAFY1GwrNOXPvV92140.js" defer="defer"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__bT9hGz6-HeNNI-adnCEI_N6B-5O3dZQF3ac8Ft5sZgI__gEXMWeOvc-HXz6wDRs6lF0vUeTOaiLiLs_pChex5jQQ__4x7GfMyP7T4fnRCre75NfAouOAFY1GwrNOXPvV92140.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"vetsites","theme_token":"ra-XxxOuC1UjKfAjpS4MVKDA2FEqY4o2PLzG5ks5mq8","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/contrib\/esign\/css\/esign.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/polite_alert\/css\/polite-alert.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/media\/modules\/media_wysiwyg\/css\/media_wysiwyg.base.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/contrib\/tagclouds\/tagclouds.css":1,"sites\/all\/themes\/astrum\/css\/base.css":1,"sites\/all\/themes\/astrum\/css\/responsive.css":1,"sites\/all\/themes\/astrum\/css\/icons.css":1,"sites\/all\/themes\/astrum\/css\/style.css":1,"sites\/all\/themes\/astrum\/css\/colors\/green.css":1,"sites\/all\/themes\/astrum\/css\/astrum.css":1,"public:\/\/color\/astrum_color_cache\/colors.css":1,"sites\/all\/libraries\/superfish\/css\/superfish.css":1,"sites\/all\/libraries\/superfish\/css\/superfish-smallscreen.css":1,"sites\/all\/themes\/astrum\/system.messages.css":1,"sites\/all\/themes\/astrum\/system.menus.css":1,"sites\/all\/themes\/astrum\/system.theme.css":1,"sites\/all\/themes\/vetsites\/vetbase.css":1,"sites\/all\/themes\/vetsites\/css\/client.css":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/font-awesome\/4.7.0\/css\/font-awesome.min.css":1,"sites\/all\/themes\/vetsites\/css\/fa.css":1,"sites\/all\/themes\/vetsites\/css\/mobile-menu-fix.css":1},"js":{"public:\/\/google_tag\/google_tag.script.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/fitvids\/jquery.fitvids.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/contrib\/contentanalysis\/contentanalysis.js":1,"sites\/all\/modules\/contrib\/contentoptimizer\/contentoptimizer.js":1,"sites\/all\/modules\/contrib\/fitvids\/fitvids.js":1,"sites\/all\/modules\/contrib\/polite_alert\/js\/polite_alert.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/tabvn\/flexslider_format\/jquery.flexslider.js":1,"sites\/all\/modules\/contrib\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/contrib\/custom_search\/js\/custom_search.js":1,"https:\/\/ws.sharethis.com\/button\/buttons.js":1,"sites\/all\/modules\/contrib\/analytics_tracking\/gat.js":1,"https:\/\/cdn.userway.org\/widget.js":1,"sites\/all\/libraries\/superfish\/jquery.hoverIntent.minified.js":1,"sites\/all\/libraries\/superfish\/sfsmallscreen.js":1,"sites\/all\/libraries\/superfish\/supposition.js":1,"sites\/all\/libraries\/superfish\/superfish.js":1,"sites\/all\/libraries\/superfish\/supersubs.js":1,"sites\/all\/modules\/contrib\/superfish\/superfish.js":1,"sites\/all\/themes\/astrum\/scripts\/jquery.tp.plugins.min.js":1,"sites\/all\/themes\/astrum\/scripts\/jquery.sb.js":1,"sites\/all\/themes\/astrum\/scripts\/jquery.easing.min.js":1,"sites\/all\/themes\/astrum\/scripts\/jquery.tooltips.min.js":1,"sites\/all\/themes\/astrum\/scripts\/jquery.magnific-popup.min.js":1,"sites\/all\/themes\/astrum\/scripts\/jquery.jpanelmenu.js":1,"sites\/all\/themes\/astrum\/scripts\/custom.js":1,"sites\/all\/themes\/vetsites\/scripts\/fingerprint2.js":1,"sites\/all\/themes\/vetsites\/scripts\/gvuid.js":1,"sites\/all\/themes\/vetsites\/scripts\/jquery.balancetext.min.js":1,"sites\/all\/themes\/vetsites\/scripts\/vetsite-scripts.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px","specificPagesDefaultValue":"admin*\nimagebrowser*\nimg_assist*\nimce*\nnode\/add\/*\nnode\/*\/edit\nprint\/*\nprintpdf\/*\nsystem\/ajax\nsystem\/ajax\/*"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/contrib\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false,"useragent":"Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/123.0.0.0 Mobile Safari\/537.36"},"custom_search":{"form_target":"_self","solr":0},"fitvids":{"custom_domains":[],"selectors":["body"],"simplifymarkup":true},"superfish":{"1":{"id":"1","sf":{"pathLevels":"3","delay":"300","animation":{"opacity":"show","height":"show"},"speed":"fast","autoArrows":false,"dropShadows":false},"plugins":{"smallscreen":{"mode":"window_width","breakpointUnit":"px","title":"Main menu"},"supposition":true,"supersubs":true}}}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var switchTo5x = true;var useFastShare = 1;
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if(typeof stLight!=='undefined')stLight.options({publisher:"dr-feb159cd-da53-27c9-d6f4-403798cfd368",version:"5x",lang:"en"});
+//--><!]]>
+</script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__Ub-WcbZip4NtR3bXYPRleSmlqAV2J-oH8erIWudfrMY__e52T0L6kannF_Pc0W5nKX6sOjuNwqOE_eiLVCuxmaYw__4x7GfMyP7T4fnRCre75NfAouOAFY1GwrNOXPvV92140.js"></script>
+<script type="text/javascript" defer="defer" src="https://cdn.userway.org/widget.js"></script>
+<script type="text/javascript" src="/sites/default/files/advagg_js/js__z5zSM6DfJlR98hCVo3ipuXXB3XJ_eX3vbJoNfY0KrHw__OGXNd8hjbj4-Uq3g175Lz8D8l5T3YpgPZ6wDSjTLZy0__4x7GfMyP7T4fnRCre75NfAouOAFY1GwrNOXPvV92140.js"></script>
+  </head>
+    <body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-1103 node-type-blog wide" >
+    <div id="skip-link">
+      <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    </div>
+      <div class="region region-page-top">
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MLXGWXQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  </div>
+    <!-- Header
+================================================== -->
+<header id="header">
+    <!-- Container -->
+    <div class="container">
+
+        <!-- Logo / Mobile Menu -->
+        <div class="three columns">
+
+            <div id="mobile-navigation">
+
+                                <form method="POST" id="menu-search" action="/search">
+                      <input name="keys" id="keys" type="text" placeholder="Start Typing..."/>
+                  </form>
+
+                  <span class="search-trigger"><i class="icon-search"></i></span>
+                              <a href="#menu" class="menu-trigger"><i class="icon-reorder"></i></a>
+            </div>
+
+            <div id="logo">
+                                <div id="siteLogo"><a href="/" title="Home"
+                                        rel="home">
+                          <img src="https://www.freeportvet.com/sites/default/files/fvh_logo_v3.png" alt="Home"/>
+                      </a></div>
+              
+              
+                <div class="clearfix"></div>
+            </div>
+        </div>
+
+
+        <!-- Navigation
+        ================================================== -->
+        <div class="thirteen columns">
+                        <nav id="navigation" class="menu">
+                  <div class="region region-main-menu">
+    <div id="block-superfish-1" class="block block-superfish">
+
+    
+  <div class="content">
+    <ul  id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-7 sf-parent-items-4 sf-single-items-3"><li id="menu-791-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-3 sf-parent-children-3 sf-single-children-0 menuparent"><a href="/services" title="Information about the services provided in our practice" class="sf-depth-1 menuparent">Services</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper first odd sf-item-1 sf-depth-1 sf-total-children-3 sf-parent-children-3 sf-single-children-0 menuparent"><ol><li id="menu-1694-1" class="first odd sf-item-1 sf-depth-2 sf-total-children-23 sf-parent-children-0 sf-single-children-23 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><a href="/services/cats" title="Cat Services" class="sf-depth-2 menuparent">Cat Services</a><ol><li id="menu-1728-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/services/cats/kitten-care" title="Kitten Care" class="sf-depth-3">Cat Kitten Care</a></li><li id="menu-1711-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/services/cats/senior-cat-care" title="Cat Preventive Care" class="sf-depth-3">Cat Senior Care</a></li><li id="menu-1740-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/services/cats/what-know-when-your-cat-needs-anesthesia" title="Cat Anesthesia" class="sf-depth-3">Cat Anesthesia</a></li><li id="menu-1699-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/services/cats/cat-cancer" title="Cat Cancer" class="sf-depth-3">Cat Cancer</a></li><li id="menu-1700-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/services/cats/heart-disease-in-cats" title="Cat Cardiology" class="sf-depth-3">Cat Cardiology</a></li><li id="menu-1702-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/services/cats/cat-dental-care" title="Cat Dental" class="sf-depth-3">Cat Dental</a></li><li id="menu-1741-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/services/cats/cat-skin-conditions" title="Cat Dermatology" class="sf-depth-3">Cat Dermatology</a></li><li id="menu-3198-1" class="middle even sf-item-8 sf-depth-3 sf-no-children"><a href="/services/cats/worms-in-cats" class="sf-depth-3">Cat Deworming</a></li><li id="menu-1703-1" class="middle odd sf-item-9 sf-depth-3 sf-no-children"><a href="/services/cats/feline-diagnostic-imaging" title="Cat Diagnostic Imaging" class="sf-depth-3">Cat Diagnostic Imaging</a></li><li id="menu-1696-1" class="middle even sf-item-10 sf-depth-3 sf-no-children"><a href="/services/cats/cat-emergency" title="Cat Emergency" class="sf-depth-3">Cat Emergency</a></li><li id="menu-1704-1" class="middle odd sf-item-11 sf-depth-3 sf-no-children"><a href="/services/cats/fleas-and-ticks-for-cats" title="Cat Fleas and Ticks" class="sf-depth-3">Cat Fleas &amp; Ticks</a></li><li id="menu-1705-1" class="middle even sf-item-12 sf-depth-3 sf-no-children"><a href="/services/cats/heartworms-in-cats" title="Cat Heartworms" class="sf-depth-3">Cat Heartworms</a></li><li id="menu-1747-1" class="middle odd sf-item-13 sf-depth-3 sf-no-children"><a href="/services/cats/in-home-cat-care-house-calls" title="Cat House Calls" class="sf-depth-3">Cat House Calls</a></li><li id="menu-1706-1" class="middle even sf-item-14 sf-depth-3 sf-no-children"><a href="/services/cats/blood-tests-for-cats" title="Cat Lab Tests" class="sf-depth-3">Cat Lab Tests</a></li><li id="menu-1744-1" class="middle odd sf-item-15 sf-depth-3 sf-no-children"><a href="/services/cats/cat-medicine" title="Cat Medications" class="sf-depth-3">Cat Medications</a></li><li id="menu-1708-1" class="middle even sf-item-16 sf-depth-3 sf-no-children"><a href="/services/cats/cat-microchip" title="Cat Microchipping" class="sf-depth-3">Cat Microchipping</a></li><li id="menu-1709-1" class="middle odd sf-item-17 sf-depth-3 sf-no-children"><a href="/services/cats/feline-nutrition-cat-food" title="Cat Nutrition" class="sf-depth-3">Cat Nutrition</a></li><li id="menu-3199-1" class="middle even sf-item-18 sf-depth-3 sf-no-children"><a href="/services/cats/feline-nutrition-cat-food-veterinary-recommendations" class="sf-depth-3">Cat Nutrition</a></li><li id="menu-1710-1" class="middle odd sf-item-19 sf-depth-3 sf-no-children"><a href="/services/cats/veterinary-preventive-care" title="Cat Preventive Care" class="sf-depth-3">Cat Preventive Care</a></li><li id="menu-1698-1" class="middle even sf-item-20 sf-depth-3 sf-no-children"><a href="/services/cats/spay-neuter" title="Cat Spaying &amp; Neutering" class="sf-depth-3">Cat Spaying &amp; Neutering</a></li><li id="menu-1712-1" class="middle odd sf-item-21 sf-depth-3 sf-no-children"><a href="/services/cats/cat-surgery" title="Cat Surgery" class="sf-depth-3">Cat Surgery</a></li><li id="menu-1713-1" class="middle even sf-item-22 sf-depth-3 sf-no-children"><a href="/services/cats/vaccinations" title="Cat Vaccinations" class="sf-depth-3">Cat Vaccinations</a></li><li id="menu-1745-1" class="last odd sf-item-23 sf-depth-3 sf-no-children"><a href="/services/cats/feline-wellness-checkups" title="Cat Wellness Exams" class="sf-depth-3">Cat Wellness Exams</a></li></ol></div></li><li id="menu-1695-1" class="middle even sf-item-2 sf-depth-2 sf-total-children-22 sf-parent-children-0 sf-single-children-22 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><a href="/services/dogs" title="Dog Services" class="sf-depth-2 menuparent">Dog Services</a><ol><li id="menu-1731-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/services/dogs/puppy-care" title="Puppy Care" class="sf-depth-3">Puppy Care</a></li><li id="menu-1732-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/services/dogs/senior-dog-care" title="Senior Dog Care" class="sf-depth-3">Senior Dog Care</a></li><li id="menu-1714-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/services/dogs/dog-allergies" title="Dog Allergies" class="sf-depth-3">Dog Allergies</a></li><li id="menu-3196-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/services/dogs/bathing-hygiene" class="sf-depth-3">Dog Bathing &amp; Hygiene</a></li><li id="menu-1715-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/services/dogs/dog-behavior-dog-training" title="Dog Behavior" class="sf-depth-3">Dog Behavior</a></li><li id="menu-1716-1" class="middle even sf-item-6 sf-depth-3 sf-no-children"><a href="/services/dogs/dog-cancer" title="Dog Cancer" class="sf-depth-3">Dog Cancer</a></li><li id="menu-1717-1" class="middle odd sf-item-7 sf-depth-3 sf-no-children"><a href="/services/dogs/dog-cardiologist" title="Dog Cardiology" class="sf-depth-3">Dog Cardiology</a></li><li id="menu-1697-1" class="middle even sf-item-8 sf-depth-3 sf-no-children"><a href="/services/dogs/dog-dental-care" title="Dog Dental" class="sf-depth-3">Dog Dental</a></li><li id="menu-1829-1" class="middle odd sf-item-9 sf-depth-3 sf-no-children"><a href="/services/dogs/parasites/deworming-dogs" title="Dog Deworming" class="sf-depth-3">Dog Deworming</a></li><li id="menu-1718-1" class="middle even sf-item-10 sf-depth-3 sf-no-children"><a href="/services/dogs/canine-ultrasound-mri-x-rays-medical-imaging" title="Dog Diagnostic Imaging" class="sf-depth-3">Dog Diagnostic Imaging</a></li><li id="menu-1719-1" class="middle odd sf-item-11 sf-depth-3 sf-no-children"><a href="/services/dogs/emergency-dog-clinic" title="Dog Emergencies" class="sf-depth-3">Dog Emergencies</a></li><li id="menu-1721-1" class="middle even sf-item-12 sf-depth-3 sf-no-children"><a href="/services/dogs/parasites/flea-and-tick-for-dogs" title="Dog Fleas &amp; Ticks" class="sf-depth-3">Dog Fleas &amp; Ticks</a></li><li id="menu-3197-1" class="middle odd sf-item-13 sf-depth-3 sf-no-children"><a href="/services/dogs/dog-grooming" class="sf-depth-3">Dog Grooming</a></li><li id="menu-1722-1" class="middle even sf-item-14 sf-depth-3 sf-no-children"><a href="/services/dogs/parasites/heartworms-in-dogs" title="Dog Heartworms" class="sf-depth-3">Dog Heartworms</a></li><li id="menu-1723-1" class="middle odd sf-item-15 sf-depth-3 sf-no-children"><a href="/services/dogs/laboratory-blood-tests" title="Dog Lab Tests" class="sf-depth-3">Dog Lab Tests</a></li><li id="menu-1726-1" class="middle even sf-item-16 sf-depth-3 sf-no-children"><a href="/services/dogs/dog-microchip" title="Dog Microchipping" class="sf-depth-3">Dog Microchipping</a></li><li id="menu-1727-1" class="middle odd sf-item-17 sf-depth-3 sf-no-children"><a href="/services/dogs/dog-nutrition" title="Dog Nutrition" class="sf-depth-3">Dog Nutrition</a></li><li id="menu-1729-1" class="middle even sf-item-18 sf-depth-3 sf-no-children"><a href="/services/dogs/dog-pregnancy" title="Dog Pregnancy" class="sf-depth-3">Dog Pregnancy</a></li><li id="menu-1730-1" class="middle odd sf-item-19 sf-depth-3 sf-no-children"><a href="/services/dogs/preventive-care-dog-health" title="Dog Preventive Care" class="sf-depth-3">Dog Preventive Care</a></li><li id="menu-1733-1" class="middle even sf-item-20 sf-depth-3 sf-no-children"><a href="/services/dogs/spay-neuter" title="Dog Spaying &amp; Neutering" class="sf-depth-3">Dog Spaying &amp; Neutering</a></li><li id="menu-1736-1" class="middle odd sf-item-21 sf-depth-3 sf-no-children"><a href="/services/dogs/canine-surgery" title="Dog Surgery" class="sf-depth-3">Dog Surgery</a></li><li id="menu-1737-1" class="last even sf-item-22 sf-depth-3 sf-no-children"><a href="/services/dogs/dog-vaccinations" title="Dog Vaccinations" class="sf-depth-3">Dog Vaccinations</a></li></ol></div></li><li id="menu-1693-1" class="last odd sf-item-3 sf-depth-2 sf-total-children-6 sf-parent-children-0 sf-single-children-6 sf-megamenu-column menuparent"><div class="sf-megamenu-column"><span title="General Veterinary Services - Click One Of The Services Below" class="sf-depth-2 menuparent nolink" tabindex="0">General Services</span><ol><li id="menu-768-1" class="first odd sf-item-1 sf-depth-3 sf-no-children"><a href="/services/anesthesia" title="Information about our anesthesia approach and procedures" class="sf-depth-3">Anesthesia</a></li><li id="menu-783-1" class="middle even sf-item-2 sf-depth-3 sf-no-children"><a href="/services/dentistry" title="Information about veterinary dentistry options we provide" class="sf-depth-3">Dentistry</a></li><li id="menu-782-1" class="middle odd sf-item-3 sf-depth-3 sf-no-children"><a href="/services/digital-radiology" title="Information about our diagnostic imaging services" class="sf-depth-3">Digital Radiology</a></li><li id="menu-777-1" class="middle even sf-item-4 sf-depth-3 sf-no-children"><a href="/services/pain-management" title="Information about our procedures for managing and alleviating pain" class="sf-depth-3">Pain Management</a></li><li id="menu-1735-1" class="middle odd sf-item-5 sf-depth-3 sf-no-children"><a href="/services/emergency-vet" title="Emergency Veterinary Care" class="sf-depth-3">Emergency Veterinary Care</a></li><li id="menu-2736-1" class="last even sf-item-6 sf-depth-3 sf-no-children"><a href="/services/end-of-life-care" class="sf-depth-3">End Of Life Care</a></li></ol></div></li></ol></li></ul></li><li id="menu-765-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-8 sf-parent-children-0 sf-single-children-8 menuparent"><a href="/about-us" title="Provides an overview of our veterinary practice" class="sf-depth-1 menuparent">About Us</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper middle even sf-item-2 sf-depth-1 sf-total-children-8 sf-parent-children-0 sf-single-children-8 menuparent"><ol><li id="menu-1660-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/about-us/veterinarians" class="sf-depth-2">Doctors</a></li><li id="menu-1659-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/about-us/support-staff" class="sf-depth-2">Support Staff</a></li><li id="menu-1662-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/about-us/professional-organizations" class="sf-depth-2">Professional Associations</a></li><li id="menu-2741-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/about-us/certified-cat-friendly-practice" class="sf-depth-2">Certified Cat Friendly Practice</a></li><li id="menu-3205-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/client-service-representative" class="sf-depth-2">Client Service Representative</a></li><li id="menu-2886-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/top-rated-veterinarian-brunswick-me-freeport-veterinary-hospital" class="sf-depth-2">Brunswick Veterinarians</a></li><li id="menu-2887-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/top-rated-veterinarian-freeport-me-freeport-veterinary-hospital" class="sf-depth-2">Freeport Veterinarians</a></li><li id="menu-3195-1" class="last even sf-item-8 sf-depth-2 sf-no-children"><a href="/our-photos" class="sf-depth-2">Our Photos</a></li></ol></li></ul></li><li id="menu-3201-1" class="middle odd sf-item-3 sf-depth-1 sf-no-children"><a href="/careers-freeport-vet" class="sf-depth-1">Careers</a></li><li id="menu-2737-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="/fear-free" class="sf-depth-1 menuparent">Fear Free</a><ul class="sf-megamenu"><li class="sf-megamenu-wrapper middle even sf-item-4 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><ol><li id="menu-3191-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/types-fear-free-visits" class="sf-depth-2">Fear Free Visits</a></li><li id="menu-2738-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/fear-free/fear-free-success-stories" class="sf-depth-2">Fear Free Success Stories</a></li><li id="menu-2739-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/fear-free/fear-free-handouts" class="sf-depth-2">Fear Free Handouts</a></li><li id="menu-2740-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/fear-free/fear-free-videos" class="sf-depth-2">Fear Free Videos</a></li><li id="menu-2884-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="/home-happy-visit-your-dog-or-cat" class="sf-depth-2">Happy Visits</a></li></ol></li></ul></li><li id="menu-2746-1" class="middle odd sf-item-5 sf-depth-1 sf-no-children"><a href="https://freeportvet.vetsfirstchoice.com/" target="_blank" class="sf-depth-1">Online Store</a></li><li id="menu-788-1" class="middle even sf-item-6 sf-depth-1 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><span title="Articles, tips and tools to help your pet thrive!" class="sf-depth-1 menuparent nolink" tabindex="0">Resources</span><ul class="sf-megamenu"><li class="sf-megamenu-wrapper middle even sf-item-6 sf-depth-1 sf-total-children-7 sf-parent-children-0 sf-single-children-7 menuparent"><ol><li id="menu-818-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/resources/forms" title="Online forms to help speed up our service" class="sf-depth-2">Forms</a></li><li id="menu-2443-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/blog-tiled" class="sf-depth-2">Blog</a></li><li id="menu-815-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/resources/helpful-links" title="Links to useful information for your pet and your family" class="sf-depth-2">Helpful Links</a></li><li id="menu-2821-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/payment-options" class="sf-depth-2">Payment Options</a></li><li id="menu-2743-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/client-center/new-clients" class="sf-depth-2">What To Expect</a></li><li id="menu-3187-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/new-puppy-care" class="sf-depth-2">New Puppy Care</a></li><li id="menu-3200-1" class="last odd sf-item-7 sf-depth-2 sf-no-children"><a href="/recommended-reading-resources" class="sf-depth-2">Recommended Reading</a></li></ol></li></ul></li><li id="menu-905-1" class="last odd sf-item-7 sf-depth-1 sf-no-children"><a href="https://app.petdesk.com/request-appointment/freeport-veterinary-hospital?placeGUID=fefc3db0-ae0a-4aa2-b4d4-d5a47c259d10" target="_blank" class="sf-depth-1">Appointments</a></li></ul>  </div>
+</div>
+  </div>
+              </nav>
+                  </div>
+
+    </div>
+    <!-- Container / End -->
+
+</header>
+<!-- Header / End -->
+
+<!-- Content Wrapper / Start -->
+<div id="content-wrapper">
+        <div id="slider-wrapper">
+          <div class="region region-slider">
+    <div id="block-polite-alert-show-alert" class="block block-polite-alert">
+
+    
+  <div class="content">
+    <span class="polite-alert-close">X</span><span class="polite-alert-label">UPDATE:</span><span class="polite-alert-msg">We are open and here for you! It’s been a long year and we’re excited to announce that we are beginning a gradual reopening to the public!</span><a href="/covid19-update">Read more here.</a>  </div>
+</div>
+<div id="block-block-13" class="block block-block top-info-banner">
+
+    
+  <div class="content">
+    <div class="container top-banner-inner" id="mobilehide">
+<div class="topInfoStrip" style="font-size:1em; line-height:1em; padding-top:10px">
+<div class="columns sixteen" style="font-size:1em">
+<div class="alpha columns four"><i class="fa fa-map-marker"></i> <a href="https://www.google.com/maps?ll=43.867056,-70.108555&z=15&t=m&hl=en-US&gl=US&mapclient=embed&cid=16967513354770471199" target="_blank">4 Post Road<br />
+Freeport, Maine 04032</a><br />
+<!--<a href="https://app.petriage.com/register?c=1003094887" target="_blank" class="button color"><font color="#000000">Petriage 24/7 Telehealth</font></a>--></div>
+
+<div class="alpha columns four">Open: Mon, Wed, Fri: 8AM - 5PM,<br />
+Tue & Thur: 8AM - 6PM<br />
+Sat & Sun: CLOSED<br />
+Closed 12:30-1:30PM daily for Lunch</div>
+
+<div class="alpha columns four"><a href="mailto:info@freeportvet.com" style="font-size: 1em;">info@freeportvet.com</a><br />
+<a href="tel:+12072088508">207-208-8508</a><br />
+<a href="https://www.freeportvet.com/vet2pet-freeport" target="_blank">Download Our App!</a></div>
+<div class="alpha columns three">
+               <ul class="social-icons" style="margin-top:0;">
+                    <li><a class="facebook" href="https://www.facebook.com/Freeportvet/?ref=bookmarks" target="_blank"><i class="icon-facebook"></i></a></li>
+                    <li><a class="instagram" href="http://instagram.com/FreeportVetMaine" target="_blank"><i class="icon-instagram"></i></a></li>
+                    <li><a class="youtube" href="https://www.youtube.com/channel/UCAw_O8QSLgDHtaAfruHO6Zw" target="_blank"><i class="icon-youtube"></i></a></li>
+                   <li><a class="twitter" href="https://twitter.com/FreeportVH" target="_blank"><i class="icon-twitter"></i></a> </li>
+                </ul>
+</div>
+</div>
+</div>
+</div>
+<div id="mobileshow" style="text-align:center"><a class="toggle button" href="javascript:ReverseDisplay('mobilehide')">Hours &amp; Location</a></div>
+
+<style>
+.field.field-name-field-button-link.field-type-link-field.field-label-hidden {
+    padding-bottom: 15px;
+}
+</style>
+  </div>
+</div>
+  </div>
+      </div>
+  
+                            <section id="titlebar">
+                  <!-- Container -->
+                  <div class="container">
+
+                      <div class="twelve columns">
+                                                    <h2>Blog</h2>
+                                              </div>
+                      <br/>
+
+                      <div class="twelve columns">
+                                              </div>
+
+                  </div>
+                  <!-- Container / End -->
+              </section>
+            
+  
+    <div id="content-container" class="container">
+      
+        <!-- Content Top area -->
+      
+      
+        <!-- Page Content -->
+        <div class="twelve alt columns">
+            <section class="page-content">
+                              <a id="main-content"></a>
+                                                            <div class="tabs"></div>                                            <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <article id="node-1103"
+         class="node node-blog node-promoted node-blog node-promoted post" about="/services/cats/blog/my-kitty-wants-be-outdoor-cat-what-do-i-do" typeof="schema:BlogPosting sioc:Item foaf:Document">
+  <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even">
+
+
+
+          <figure class="post-img media">
+      <div class="mediaholder">
+        <a rel="gallery[1103]" class="colorbox" href="https://www.freeportvet.com/sites/default/files/outdoor-cats-versus-indoor-cats.jpg"><img typeof="foaf:Image" src="https://www.freeportvet.com/sites/default/files/styles/blog_teaser/public/outdoor-cats-versus-indoor-cats.jpg?itok=xoqJfZ25" alt="" /><div class="hovercover"><div class="hovericon"><i class="hoverzoom"></i></div></div>        </a>
+      </div>
+    </figure>
+  
+</div></div></div>        <div class="post-format">
+          <div class="circle">
+                                      <i class="icon-pencil"></i><span></span></div>
+              </div>
+        <section class="post-content">
+        <header class="meta">
+                                            <h1>My Kitty Wants to Be an Outdoor Cat: What Do I Do?!</h1>
+                    <span property="dc:title" content="My Kitty Wants to Be an Outdoor Cat: What Do I Do?!" class="rdf-meta element-hidden"></span>
+                  </header>
+
+      
+      <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>For many <a href="/services/cats" target="_blank" title="cat services">cats</a>, the outside world looks like a pretty amazing place to be. With birds, chipmunks, fresh air, and so much more just beyond the window, it should come as no surprise that many indoor cats want to be outdoor cats. However, if your cat keeps trying to sneak out and seems happier when they do manage to bolt out the door, forcing them to stay inside might seem cruel. As veterinarians, we cannot decide whether or not to let your cat outside for you. We can, however, provide you with the information you need to make an informed decision.</p>
+<p><img alt="“outdoor" cats="" /></p>
+<h2>Pros of Outdoor Cats</h2>
+<p>The biggest advantage of allowing your cat to venture outdoors is that there are more opportunities for physical activity. Outdoor cats tend to spend their days roaming and exploring and do a good bit of running and climbing in the process. And when your cat stays active, they are less likely to become overweight.</p>
+<p>In addition, a cat who can go outside is free to engage in instinctive <a href="/services/cats/cat-behavior" target="_blank" title="cat behavior">behavior</a> – like scratching – without damaging your home or belongings. They also have the freedom to indulge their natural curiosity and experience new smells, sights, tastes, and textures.</p>
+<h2>Cons of Outdoor Cats</h2>
+<p>While allowing your cat to go outside offers a few perks, there are also several drawbacks. Most notably, the average lifespan of an outdoor cat is about&nbsp;5 years, compared to indoor cats, who according to <a href="https://www.thehumanesociety.org/wp-content/uploads/2013/04/indoors_outdoors.pdf" target="_blank" title="The Humane Society on indoor and outdoor cats">The Humane Society</a> can live to be 18 to 20 years old. In addition, outdoor cats are more likely to contract <a href="/services/cats/illness-disease" target="_blank" title="cat illnesses or disease">potentially deadly diseases</a>, including feline leukemia, feline distemper (panleukopenia), feline immunodeficiency virus (FIV), rabies, and serious upper respiratory infections. They are also more likely to pick up parasites like <a href="/services/cats/fleas-and-ticks-for-cats" target="_blank" title="cat fleas and ticks">fleas and ticks</a>, <a href="/services/cats/heartworms-in-cats" target="_blank" title="cat heartworms">intestinal worms</a>, and ear mites.</p>
+<p>Your outdoor cat may face many dangers from humans and other animals.</p>
+<h3>Some of these outdoor dangers your cat could face are as follows:</h3>
+<ul>
+<li>Your cat could accidentally get hit by a car</li>
+<li>Your cat could become a victim of animal cruelty</li>
+<li>Depending on where you live, there may be natural predators who would love to prey on your cat, including coyotes, stray dogs, bobcats, and bears</li>
+<li>Rattlesnake and other snake&nbsp;are also a threat to your outdoor cat</li>
+<li>If your cat is not <a href="/services/cats/spay-neuter" target="_blank" title="cat spay and neuter">spayed or neutered</a>, there is a good chance of an unwanted pregnancy</li>
+<li>Most stray cats are not neutered, and cats can get diseases through sexual contact or fighting with other cats</li>
+</ul>
+<p><a href="https://www.nature.com/articles/ncomms2380" target="_blank" title="Nature.com on environmental impact of cats">Outside cats have an environmental impact</a>, too. They are estimated to kill billions of birds and small mammals each year. Though they are our treasured pets, they are also a non-native invasive species in most parts of the world, and their impact on bird and small mammal populations has been devastating in many areas.</p>
+<p><img alt="“pros" cats="" indoor="" of="" /></p>
+<h2>Pros of Indoor Cats</h2>
+<p>Keeping your feline friend inside means you will not have to worry about them wiping out the bird population in your neighborhood. You also won’t need to be concerned about your pet being hurt – accidentally or intentionally – by another animal or a human. Indoor cats are much less likely to encounter dangerous parasites and diseases than their outdoor counterparts, too.</p>
+<p>Indoor cats live longer, healthier lives. While accidents and escapes can never be completely prevented (hence the need for <a href="/services/cats/cat-microchip" target="_blank" title="cat microchipping">microchipping</a>), cats who stay inside are much less likely to get lost or stolen. They also do not have to contend with changing weather conditions, and there is virtually no risk of them being exposed to toxins and poisons, such as road salt, antifreeze, and dangerous plants.</p>
+<h2>Cons of Indoor Cats</h2>
+<p>Because cats enjoy roaming and exploring, keeping them inside can lead to boredom. Some indoor cats also experience depression and separation anxiety. To prevent these issues, you must take steps to meet your cat’s needs. Their instincts must be considered, and pet parents need to provide things like scratching posts, toys that simulate prey, places to climb and hide, and you might even consider honing their instinctual hunting abilities by making them work for food with things like food puzzles.</p>
+<p>Obesity is also a serious problem among many indoor cats. Without the ability to run, climb, and explore, your cat is likely to spend too much time lounging and eating. Excess weight may give your feline friend a cute, chunky appearance, but it is detrimental to their health. Obesity can lead to fatty liver disease, diabetes, joint stress and pain, and other health issues. If you plan on keeping your cat indoors, be prepared to closely monitor their diet and play with them frequently to ensure they get enough exercise and <a href="https://www.avma.org/resources/pet-owners/petcare/your-pets-healthy-weight" target="_blank" title="AVMA healthy pet weight guidelines">remain at a healthy weight</a>.</p>
+<p>Urinary diseases such as cystitis and urethral obstruction are more common in indoor-only cats, especially males. In addition, when cats get stressed due to a lack of mental or physical stimulation, their bladder can become inflamed, leading to trouble urinating. Most cats are very particular about their desire for a fresh, clean litter box, so it is important to provide optimal restroom facilities for your cat.</p>
+<p><img alt="“indoor" cat="" enrichment="" /></p>
+<h2>Enriching the Life of Your Indoor Cat</h2>
+<p>While indoor cats are more prone to boredom and obesity, these drawbacks are minimal compared to outdoor cats' risks. Plus, there are plenty of ways to <a href="https://catvets.com/guidelines/practice-guidelines/environmental-needs-guidelines" target="_blank" title="AAFP cat environmental needs guidelines">enrich the lives of indoor cats</a>. Getting your cat a companion is an excellent way to keep boredom, depression, and separation anxiety at bay. Many cats enjoy the company of a feline friend, and some even enjoy living with dogs. Playing, cuddling, and mutual <a href="/services/cats/bathing-hygiene" target="_blank" title="cat bathing and hygiene">grooming</a> with another pet will help fulfill your indoor cat’s needs for companionship and exercise when you are busy or away from home.</p>
+<p>There are also all sorts of interactive toys to help keep your cat mentally and physically stimulated. Most cats enjoy the thrill of getting a new toy, and prey-like ones (like kitty fishing poles and laser pointers) tend to get even the laziest cats up and running. You can also provide a purr-fect indoor environment for your cat by installing cat perches (especially near windows!) and providing plenty of climbing places and hiding spots.</p>
+<p>The rule of thumb for the number of litter boxes needed in your home is how many cats you have plus one, so if you have two cats, your veterinarian will recommend three boxes. Most cats prefer unscented litter that is quite sandy and boxes large enough to fit inside and turn around comfortably. You should scoop the litter box daily, replace the litter, and wash the entire litter box at least weekly. Making sure boxes are not near noisy appliances or deep in a garage makes them more likely to be accepted by your cat. Older cats may need a box on each story of your home for easier access.</p>
+<h2>The Bottom Line</h2>
+<p>If your cat keeps trying to get out and seems happier outdoors, deciding what to do can be challenging. Of course, keeping your cat indoors is the best way to keep them safe and prevent them from becoming an issue in your neighborhood. If your feline friend insists on venturing outdoors, though, keeping a close eye on them or even letting them explore while on a leash minimizes the potential risks of outdoor life.</p>
+<p>As a pet owner, the decision of whether to allow your cat to be an outdoor cat is ultimately yours to make. Understanding the pros and cons of both options is the best way to make an informed decision that is right for you and your pet. If you’re still unsure, don’t hesitate to <a href="/contact-us" target="_blank" title="contact us">give us a call </a>to formulate the best plan for your furry friend.</p>
+<p>&nbsp;</p>
+</div></div></div><div class="field field-name-field-blog-category field-type-taxonomy-term-reference field-label-above"><div class="field-label">Blog Category:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/resources/blog/cats" typeof="skos:Concept" property="rdfs:label skos:prefLabel" datatype="">Cats</a></div></div></div><span property="dc:title" content="My Kitty Wants to Be an Outdoor Cat: What Do I Do?!" class="rdf-meta element-hidden"></span><br/>
+<div class="field field-name-field-attribution-link field-type-link-field field-label-hidden">
+      <div class="field-items">
+                <div class="field-item" style="color: #777; font-style: italic; font-size: smaller;">Based on an article that first appeared at <a href="https://www.geniusvets.com/" title="Veterinary Marketing" target="_blank">GeniusVets</a></div>
+          </div>
+</div>
+
+      
+    </section>
+    <div class="clearfix"></div>
+
+  </article>
+  </div>
+</div>
+<div id="block-block-18" class="block block-block">
+
+    
+  <div class="content">
+    <h4>Share this Content</h4>
+  </div>
+</div>
+<div id="block-sharethis-sharethis-block" class="block block-sharethis">
+
+    
+  <div class="content">
+    <div class="sharethis-wrapper"><span st_url="https://www.freeportvet.com/services/cats/blog/my-kitty-wants-be-outdoor-cat-what-do-i-do" st_title="My%20Kitty%20Wants%20to%20Be%20an%20Outdoor%20Cat%3A%20What%20Do%20I%20Do%3F%21" class="st_facebook_large" displayText="facebook"></span>
+<span st_url="https://www.freeportvet.com/services/cats/blog/my-kitty-wants-be-outdoor-cat-what-do-i-do" st_title="My%20Kitty%20Wants%20to%20Be%20an%20Outdoor%20Cat%3A%20What%20Do%20I%20Do%3F%21" class="st_twitter_large" displayText="twitter" st_via="" st_username=""></span>
+<span st_url="https://www.freeportvet.com/services/cats/blog/my-kitty-wants-be-outdoor-cat-what-do-i-do" st_title="My%20Kitty%20Wants%20to%20Be%20an%20Outdoor%20Cat%3A%20What%20Do%20I%20Do%3F%21" class="st_email_large" displayText="email" st_via="" st_username=""></span>
+<span st_url="https://www.freeportvet.com/services/cats/blog/my-kitty-wants-be-outdoor-cat-what-do-i-do" st_title="My%20Kitty%20Wants%20to%20Be%20an%20Outdoor%20Cat%3A%20What%20Do%20I%20Do%3F%21" class="st_sharethis_large" displayText="sharethis" st_via="" st_username=""></span>
+<span st_url="https://www.freeportvet.com/services/cats/blog/my-kitty-wants-be-outdoor-cat-what-do-i-do" st_title="My%20Kitty%20Wants%20to%20Be%20an%20Outdoor%20Cat%3A%20What%20Do%20I%20Do%3F%21" class="st_pinterest_large" displayText="pinterest" st_via="" st_username=""></span>
+</div>  </div>
+</div>
+  </div>
+                                        </section>
+        </div>
+        <!-- Page Content / End -->
+                <div id="sidebar-second" class="four columns">
+              <aside class="sidebar">
+                  <div class="section">
+                      <div class="region region-sidebar-second">
+    
+<div id="block-block-102" class="widget block block-block">
+
+      
+  <div class="content">
+    <h4>Share this Content</h4>
+  </div>
+</div>
+
+<div id="block-sharethis-sharethis-block--2" class="widget block block-sharethis">
+
+      
+  <div class="content">
+    <div class="sharethis-wrapper"><span st_url="https://www.freeportvet.com/services/cats/blog/my-kitty-wants-be-outdoor-cat-what-do-i-do" st_title="My%20Kitty%20Wants%20to%20Be%20an%20Outdoor%20Cat%3A%20What%20Do%20I%20Do%3F%21" class="st_facebook_large" displayText="facebook"></span>
+<span st_url="https://www.freeportvet.com/services/cats/blog/my-kitty-wants-be-outdoor-cat-what-do-i-do" st_title="My%20Kitty%20Wants%20to%20Be%20an%20Outdoor%20Cat%3A%20What%20Do%20I%20Do%3F%21" class="st_twitter_large" displayText="twitter" st_via="" st_username=""></span>
+<span st_url="https://www.freeportvet.com/services/cats/blog/my-kitty-wants-be-outdoor-cat-what-do-i-do" st_title="My%20Kitty%20Wants%20to%20Be%20an%20Outdoor%20Cat%3A%20What%20Do%20I%20Do%3F%21" class="st_email_large" displayText="email" st_via="" st_username=""></span>
+<span st_url="https://www.freeportvet.com/services/cats/blog/my-kitty-wants-be-outdoor-cat-what-do-i-do" st_title="My%20Kitty%20Wants%20to%20Be%20an%20Outdoor%20Cat%3A%20What%20Do%20I%20Do%3F%21" class="st_sharethis_large" displayText="sharethis" st_via="" st_username=""></span>
+<span st_url="https://www.freeportvet.com/services/cats/blog/my-kitty-wants-be-outdoor-cat-what-do-i-do" st_title="My%20Kitty%20Wants%20to%20Be%20an%20Outdoor%20Cat%3A%20What%20Do%20I%20Do%3F%21" class="st_pinterest_large" displayText="pinterest" st_via="" st_username=""></span>
+</div>  </div>
+</div>
+
+<div id="block-tagclouds-5" class="widget block block-tagclouds">
+
+        <h3 class="headline" >Blog Categories</h3>
+    <span class="line"></span>
+    <div class="clearfix"></div>
+
+    
+  <div class="content">
+    <div class="tags"><span class='tagclouds-term'><a href="/resources/blog/cats" class="tagclouds level6" title="">Cats</a></span>
+<span class='tagclouds-term'><a href="/resources/blog/dogs" class="tagclouds level6" title="">Dogs</a></span>
+<span class='tagclouds-term'><a href="/resources/blog/other" class="tagclouds level1" title="">Other</a></span>
+</div>  </div>
+</div>
+
+<div id="block-views-dog-breeds-block-2" class="widget block block-views">
+
+        <h3 class="headline" >Featured Breed</h3>
+    <span class="line"></span>
+    <div class="clearfix"></div>
+
+    
+  <div class="content">
+    <div class="view view-dog-breeds view-id-dog_breeds view-display-id-block_2 view-dom-id-ea4f2967f68ac476aca0b1bdf399c614">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-breed-photo">        <div class="field-content"><a href="/services/cats/breeds/siamese"><img typeof="foaf:Image" src="https://www.freeportvet.com/sites/default/files/styles/medium/public/siamese-cat-breed-info_0.jpg?itok=5sZG_POR" width="220" height="220" alt="pet hospital" title="pet hospital" /></a></div>  </div>  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/services/cats/breeds/siamese">Siamese</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a class="button color" href="/services/cats/breeds">See all Cat Breeds</a></p>
+<style>
+.view-id-dog_breeds.view-display-id-block_2 .views-field-title a {
+	color: #33f5ff;
+}
+</style>    </div>
+  
+  
+</div>  </div>
+</div>
+
+<div id="block-tagclouds-1" class="widget block block-tagclouds">
+
+        <h3 class="headline" >Tags</h3>
+    <span class="line"></span>
+    <div class="clearfix"></div>
+
+    
+  <div class="content">
+    <div class="tags"><span class='tagclouds-term'><a href="/services/cats/resources/activities-fun/tag/tag" class="tagclouds level1" title="This collection of [current-page:title] articles has been curated for you by [practice:practice-name]. If you would like to talk to a veterinarian, please give us a call at [practice:phone].">Cat Activities and Fun</a></span>
+<span class='tagclouds-term'><a href="/tags/cat-behavior" class="tagclouds level6" title="">cat behavior</a></span>
+<span class='tagclouds-term'><a href="/services/cats/illness-disease/tag" class="tagclouds level4" title="This collection of [current-page:title] articles has been curated for you by [practice:practice-name]. If you would like to talk to a veterinarian, please give us a call at [practice:phone].">Cat Illness &amp; Disease</a></span>
+<span class='tagclouds-term'><a href="/services/cats/feline-nutrition-cat-food/tag" class="tagclouds level2" title="This collection of [current-page:title] articles has been curated for you by [practice:practice-name]. If you would like to talk to a veterinarian, please give us a call at [practice:phone].">Cat Nutrition</a></span>
+<span class='tagclouds-term'><a href="/services/cats/veterinary-preventive-care/tag" class="tagclouds level2" title="This collection of [current-page:title] articles has been curated for you by [practice:practice-name]. If you would like to talk to a veterinarian, please give us a call at [practice:phone].">Cat Preventive Care</a></span>
+<span class='tagclouds-term'><a href="/services/cats/feline-wellness-checkups/tag" class="tagclouds level1" title="This collection of [current-page:title] articles has been curated for you by [practice:practice-name]. If you would like to talk to a veterinarian, please give us a call at [practice:phone].">Cat Wellness Checkups</a></span>
+<span class='tagclouds-term'><a href="/services/dogs/resources/activities-fun/tag" class="tagclouds level2" title="This collection of [current-page:title] articles has been curated for you by [practice:practice-name]. If you would like to talk to a veterinarian, please give us a call at [practice:phone].">Dog Activities and Fun</a></span>
+<span class='tagclouds-term'><a href="/tags/dog-behavior" class="tagclouds level6" title="">dog behavior</a></span>
+<span class='tagclouds-term'><a href="/services/dogs/emergency-dog-clinic/tag" class="tagclouds level1" title="This collection of [current-page:title] articles has been curated for you by [practice:practice-name]. If you would like to talk to a veterinarian, please give us a call at [practice:phone].">Dog Emergency Care</a></span>
+<span class='tagclouds-term'><a href="/services/dogs/illness-disease/tag" class="tagclouds level6" title="This collection of [current-page:title] articles has been curated for you by [practice:practice-name]. If you would like to talk to a veterinarian, please give us a call at [practice:phone].">Dog Illness &amp; Disease</a></span>
+<span class='tagclouds-term'><a href="/services/dogs/dog-nutrition/tag" class="tagclouds level3" title="This collection of [current-page:title] articles has been curated for you by [practice:practice-name]. If you would like to talk to a veterinarian, please give us a call at [practice:phone].">Dog Nutrition</a></span>
+<span class='tagclouds-term'><a href="/services/dogs/preventive-care-dog-health/tag" class="tagclouds level2" title="This collection of [current-page:title] articles has been curated for you by [practice:practice-name]. If you would like to talk to a veterinarian, please give us a call at [practice:phone].">Dog Preventive Care</a></span>
+</div><div class="more-link"><a href="/tagclouds/chunk/1" title="more tags">More</a></div>  </div>
+</div>
+
+<div id="block-block-106" class="widget block block-block">
+
+      
+  <div class="content">
+    <!--
+        <div class="cta">
+            <div class="cta__title">Free Guide</div>
+            <div class="cta__description"> "This is the <a href="/link" download >ultimate guide to do dog care</a>" - Dr Brian Melius</div>
+            <div class="cta__wrapper">
+               <div class="grid-item">
+                   <img class="cta__picture" src="/sites/default/files/465194850585994.uu1oIeFMyt7F1zpL7JyD_height640.png" alt="Dog Guide">
+               </div>
+                <div class="grid-item">
+                    <a class="cta__link" href="#0"> Click here to get your <strong>GUIDE TO DOG CARE</strong></a>
+                </div>
+            </div>
+        </div>-->  </div>
+</div>
+
+<div id="block-block-109" class="widget block block-block">
+
+        <h3 class="headline" >Review Us</h3>
+    <span class="line"></span>
+    <div class="clearfix"></div>
+
+    
+  <div class="content">
+    <p>Freeport Veterinary Hospital</p><a class="rate-button" href="https://reputation.geniusvets.com/freeport-veterinary-hospital-167112732915319"> Rate Us Now!</a>  </div>
+</div>
+
+<div id="block-block-107" class="widget block block-block">
+
+      
+  <div class="content">
+    <p><!--
+<iframe name="NR4TestimonialsIFrame4957" id="NR4TestimonialsIFrame4957"
+        style="width:100%;height:600px;border-style:none;overflow:hidden;" scrolling="no" frameborder="0"
+        src="http://testimonials.geniusvets.com/tv2.aspx?corporateId=2311&styleId=4957&guid=8bb110b2-0743-11e6-a049-00185168e543&fadeEvents=&fadeInterval=&fadeTime=&height=600&languageId=&bodyOnly=">
+</iframe>
+--></p>
+  </div>
+</div>
+
+<div id="block-block-110" class="widget block block-block">
+
+        <h3 class="headline" >Locations We Serve</h3>
+    <span class="line"></span>
+    <div class="clearfix"></div>
+
+    
+  <div class="content">
+    <p class="toggler">Cities and Zip Codes served by Freeport Vet</p>
+<div>
+<h3>Cities Served by Freeport Vet</h3>
+<ul>
+<li>Bailey Island</li>
+<li>Bath</li>
+<li>Bowdoin</li>
+<li>Brunswick</li>
+<li>Bustins Island</li>
+<li>Chebeague Island</li>
+<li>Cliff Island</li>
+<li>Cumberland Center</li>
+<li>Cumberland Foreside</li>
+<li>Danville</li>
+<li>Durham</li>
+<li>Falmouth</li>
+<li>Freeport</li>
+<li>Gray</li>
+<li>Harpswell</li>
+<li>Lisbon</li>
+<li>Lisbon Falls</li>
+<li>Long Island</li>
+<li>New Gloucester</li>
+<li>North Yarmouth</li>
+<li>Orrs Island</li>
+<li>Peaks Island</li>
+<li>Phippsburg</li>
+<li>Pownal</li>
+<li>Sebasco Estates</li>
+<li>South Freeport</li>
+<li>Topsham</li>
+<li>Yarmouth</li>
+</ul>
+<h3>Zip Codes Served by Freeport Vet</h3>
+<ul>
+<li>04032</li>
+<li>04034</li>
+<li>04033</li>
+<li>04078</li>
+<li>04069</li>
+<li>04013</li>
+<li>04096</li>
+<li>04011</li>
+<li>04222</li>
+<li>04097</li>
+<li>04079</li>
+<li>04110</li>
+<li>04066</li>
+<li>04017</li>
+<li>04021</li>
+<li>04086</li>
+<li>04003</li>
+<li>04250</li>
+<li>04252</li>
+<li>04019</li>
+<li>04105</li>
+<li>04039</li>
+<li>04260</li>
+<li>04050</li>
+<li>04223</li>
+<li>04565</li>
+<li>04108</li>
+<li>04562</li>
+<li>04287</li>
+<li>04530</li>
+</ul>
+</div>
+  </div>
+</div>
+  </div>
+                  </div>
+              </aside>
+          </div>
+      
+        <div class="clearfix"></div>
+
+    </div>
+
+  
+
+  
+</div>
+<!-- Content Wrapper / End -->
+
+
+<!-- Footer
+================================================== -->
+<div id="footer" class="light">
+    <div class="container">
+
+                <div class="four columns">
+              <div class="region region-footer-first">
+    <div id="block-block-1" class="block block-block">
+
+    <h2>Careers at Freeport Vet</h2>
+  
+  <div class="content">
+    <p class="no-margin">Freeport Veterinary Hospital is seeking a kind and focused individual who is committed to Fear Free veterinary care as part of a tightly-knit, family-like team. </p>
+
+<a href="/careers-freeport-vet" target="_blank"><img src="/sites/default/files/freeport-hiring.jpg" style="width:50%"></a>
+<!-- Global site tag (gtag.js) - AdWords: 785526313 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-785526313"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-785526313');
+</script>  </div>
+</div>
+  </div>
+          </div>
+      
+                <div class="four columns">
+              <div class="region region-footer-second">
+    <div id="block-menu-menu-footer-menu" class="block block-menu">
+
+    <h2>Links</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/about-us" title="Provides an overview of our veterinary practice">About Us</a></li>
+<li class="leaf"><a href="/services" title="Information about the services provided in our practice">Services</a></li>
+<li class="leaf"><a href="/testimonials" title="Hear from our patients and their families">Testimonials</a></li>
+<li class="leaf"><a href="/contact-us" title="Contact our office">Contact Us</a></li>
+<li class="leaf"><a href="/about-us/privacy-policy" title="Information about how we protect your privacy">Privacy Policy</a></li>
+<li class="leaf"><a href="/website-accessibility-policy">Accessibility Policy</a></li>
+<li class="last leaf"><a href="/user">Login</a></li>
+</ul>  </div>
+</div>
+  </div>
+          </div>
+      
+                <div class="four columns">
+              <div class="region region-footer-third">
+    <div id="block-block-2" class="block block-block">
+
+    <h2>Get In Touch</h2>
+  
+  <div class="content">
+    <ul class="get-in-touch">
+<li><i class="icon-map-marker"></i>
+<p><strong style="width:6.25em;">Address:</strong> 4 Post Road<br />Freeport, Maine 04032</p>
+</li>
+<li><i class="icon-phone"></i>
+<p><strong style="width:6.25em;">Phone:</strong> <a style="font-size: 1em;" href="tel:+12072088508">207-208-8508</a></p>
+</li>
+<li><i class="icon-envelope"></i>
+<p><strong style="width:6.25em;">Email:</strong> <a style="font-size: 1em;" href="mailto:info@freeportvet.com">info@freeportvet.com</a></p>
+</li>
+</ul>
+  </div>
+</div>
+  </div>
+          </div>
+      
+
+                <div class="four columns">
+              <div class="region region-footer-fourth">
+    <div id="block-block-109--2" class="block block-block">
+
+    <h2>Review Us</h2>
+  
+  <div class="content">
+    <p>Freeport Veterinary Hospital</p><a class="rate-button" href="https://reputation.geniusvets.com/freeport-veterinary-hospital-167112732915319"> Rate Us Now!</a>  </div>
+</div>
+  </div>
+          </div>
+      
+    </div>
+
+</div>
+<!-- Footer / End -->
+
+<!-- Footer Bottom / Start -->
+<div id="footer-bottom">
+
+    <!-- Container -->
+    <div class="container">
+        <div class="sixteen columns">
+            <div class="region region-footer">
+    <div id="block-block-3" class="block block-block">
+
+    
+  <div class="content">
+    <div class="eleven columns alpha">The content provided on this website is intended for educational purposes only. Freeport Veterinary Hospital does not provide veterinary medical advice via the internet. Please consult your veterinarian for the best recommendations for your pets. ©2024 Freeport Veterinary Hospital.  Resource Articles ©2024 GeniusVets. All Rights Reserved.  <a href="http://geniusvets.com" target="_blank" title="veterinary websites by GeniusVets">Veterinary websites by GeniusVets</a></div>
+<div class="four columns omega">
+<ul class="social-icons-footer">
+<li><a href="https://www.facebook.com/Freeportvet/?ref=bookmarks" class="tooltip top" title="Facebook" target="_blank"><i class="icon-facebook"></i></a></li>
+<li><a href="http://instagram.com/FreeportVetMaine" class="tooltip top" title="Instagram" target="_blank"><i class="icon-instagram"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UCAw_O8QSLgDHtaAfruHO6Zw" class="tooltip top" title="Youtube" target="_blank"><i class="icon-youtube"></i></a></li>
+<li><a href="https://twitter.com/FreeportVH" class="tooltip top" title="Twitter" target="_blank"><i class="icon-twitter"></i></a></li>
+</ul>
+</div>
+  </div>
+</div>
+  </div>
+        </div>
+
+    </div>
+    <!-- Container / End -->
+
+</div>
+<!-- Footer Bottom / Start -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+gatCapture();
+//--><!]]>
+</script>
+  </body>
+</html>
